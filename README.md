@@ -19,11 +19,11 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 I am an AI Developer with hands-on experience in LLMs and cloud technologies, with a passion for designing AI agents and bridging business requirements with technical solutions. I am seeking to leverage AI engineering expertise in building cutting-edge AI applications.
 
 - 🌍  I'm based in Finland
-* 🖥️  See my portfolio at [Echo-Lian](http://echo-lian.github.io/)
-* ✉️  You can contact me at [echolian97@gmail.com](mailto:echolian97@gmail.com)
-* 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul)
-* 🧠  I'm currently learning Fast API, smolagents, LangChain, and LlamaIndex
-* 👥  I'm looking to collaborate on AI-powered stress coaching application
+- 🖥️  See my portfolio at [Echo-Lian](http://echo-lian.github.io/)
+- ✉️  You can contact me at [echolian97@gmail.com](mailto:echolian97@gmail.com)
+- 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul)
+- 🧠  I'm currently learning Fast API, smolagents, LangChain, and LlamaIndex
+- 👥  I'm looking to collaborate on AI-powered stress coaching application
 
 <!--
 ### Skills
