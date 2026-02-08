@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Baiyi Lian
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
-
-AI Developer
-------------
 
 I am an AI Developer with hands-on experience in LLMs and cloud technologies, with a passion for designing AI agents and bridging business requirements with technical solutions. I am seeking to leverage AI engineering expertise in building cutting-edge AI applications.
 
