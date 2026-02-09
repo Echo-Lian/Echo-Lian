@@ -21,9 +21,9 @@ I am an AI Developer with hands-on experience in LLMs and cloud technologies, wi
 - 🌍  I'm based in Finland
 - 🖥️  See my CV at [Echo-Lian](http://echo-lian.github.io/)
 - ✉️  You can contact me at [echolian97@gmail.com](mailto:echolian97@gmail.com)
-- 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul)
-- 🧠  I'm currently learning Fast API, smolagents, LangChain, and LlamaIndex
-- 👥  I'm looking to collaborate on AI-powered stress coaching application
+- 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul), [Easy-TTS-Reader](https://github.com/Echo-Lian/Easy-TTS-Reader)
+- 🧠  I'm currently learning Fast API, smolagents, LangChain, LlamaIndex
+- 👥  I'm looking to collaborate on AI-powered stress coaching applications
 
 <!--
 ### Skills
