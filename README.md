@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-I am an AI Developer with hands-on experience in LLMs and cloud technologies, with a passion for designing AI agents and bridging business requirements with technical solutions. I am seeking to leverage AI engineering expertise in building cutting-edge AI applications.
+I am an AI Developer with hands-on experience in LLMs and cloud technologies, with a passion for empowering AI in real-world use case applications.
 
 - 🌍  I'm based in Finland
 - 🖥️  See my CV at [Echo-Lian](http://echo-lian.github.io/)
 - ✉️  You can contact me at [echolian97@gmail.com](mailto:echolian97@gmail.com)
 - 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul), [Easy-TTS-Reader](https://github.com/Echo-Lian/Easy-TTS-Reader)
 - 🧠  I'm currently learning Fast API, smolagents, LangChain, LlamaIndex
-- 👥  I'm looking to collaborate on AI-powered stress coaching applications
+- 👥  I'm looking to collaborate on AI-powered mental health assistant applications.
 
 <!--
 ### Skills
