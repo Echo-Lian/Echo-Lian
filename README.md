@@ -19,7 +19,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 I am an AI Developer with hands-on experience in LLMs and cloud technologies, with a passion for empowering AI in real-world use case applications.
 
 - 🌍  I'm based in Finland
-- 🖥️  See my personal webpage at [Echo-Lian](https://echo-lian.github.io/)
+- 🖥️  See my personal webpage at [Baiyi Lian - AI developer](https://echo-lian.github.io/)
 - ✉️  You can contact me at [echolian97@gmail.com](mailto:echolian97@gmail.com)
 - 🚀  I'm currently working on [CareSoul](http://github.com/Echo-Lian/CareSoul), [Easy-TTS-Reader](https://github.com/Echo-Lian/Easy-TTS-Reader)
 - 🧠  I'm currently learning Fast API, smolagents, LangChain, LlamaIndex
